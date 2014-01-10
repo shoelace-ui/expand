@@ -1,0 +1,14 @@
+article,
+div,
+main {
+  margin: 0 auto;
+}
+
+article {
+  color: #00f;
+}
+
+div,
+main {
+  width: 100%;
+}

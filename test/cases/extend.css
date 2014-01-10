@@ -1,0 +1,10 @@
+article,
+div,
+main {
+  color: #fff;
+}
+
+div,
+main {
+  width: 100%;
+}

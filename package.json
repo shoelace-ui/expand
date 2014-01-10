@@ -1,0 +1,43 @@
+{
+  "name": "shoelace-expand",
+  "version": "0.1.0",
+  "description": "Post-processor for shoelace(1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoelace-ui/expand"
+  },
+  "author": "Michael Vanasse <michaelvanasse@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rework": "~0.20.2",
+    "rework-clearfix": "~1.0.0",
+    "rework-mixins": "~1.1.1",
+    "rework-variables": "0.0.8",
+    "css-whitespace": "~1.1.0",
+    "rework-macro": "~0.1.2",
+    "autoprefixer": "~1.0.20140103",
+    "myth": "~0.2.0",
+    "rework-variant": "~0.2.2",
+    "rework-npm": "~0.3.0",
+    "rework-importer": "~0.2.2",
+    "styl": "~0.2.7",
+    "xtend": "~2.1.2",
+    "resolve": "~0.6.1",
+    "css-parse": "~1.7.0",
+    "rework-breakpoints": "~0.4.0",
+    "rework-vars": "~2.0.2",
+    "rework-calc": "~0.2.1",
+    "clean-css": "~2.0.6",
+    "cssbeautify": "~0.3.1"
+  },
+  "devDependencies": {
+    "should": "~2.1.1",
+    "mocha": "~1.16.2",
+    "colors": "~0.6.2",
+    "debug": "~0.7.4"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "repo": "shoelace-ui/app",
+  "description": "the main application component",
+  "paths": [".."],
+  "local": ["theme"],
+  "styles": ["style.sl", "style.css"]
+}
